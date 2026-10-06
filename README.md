@@ -2,6 +2,8 @@
 
 An unofficial, noncommercial, bilingual (Persian / English) React fan site for Valve's **Deadlock**. It has a cinematic home page, curated official news, and a separate interactive page for three character dossiers.
 
+**[Open the live website](https://benyaminrahmantalab84-maker.github.io/deadlock-city-archive/)** · [Browse the hero files](https://benyaminrahmantalab84-maker.github.io/deadlock-city-archive/heroes.html)
+
 ## Run locally
 
 ```bash
@@ -39,7 +41,7 @@ All game images and footage were downloaded from Valve's official [City Never Sl
 
 The CDN's two character image filenames above differ from the names painted into the art. Local filenames follow the visible character names.
 
-Deadlock and all game imagery belong to Valve. This is an independent fan concept, not an official Valve site. Valve's [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/) permits noncommercial fan art incorporating Valve game content; its [video policy](https://store.steampowered.com/video_policy) covers noncommercial videos made using Valve game content. The site has no ads, store, or paid access.
+Deadlock and all game imagery belong to Valve. This is an independent fan concept, not an official Valve site. The site has no ads, store, or paid access. See Valve's [Steam Subscriber Agreement](https://store.steampowered.com/subscriber_agreement/) and [video policy](https://store.steampowered.com/video_policy/) for its fan-content terms.
 
 ## Deployment
 
